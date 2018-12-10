@@ -16,7 +16,7 @@
  *
  * @package WordPress
  */
-
+define('FS_METHOD', 'direct');
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
 define('DB_NAME', 'base_volley_club');
